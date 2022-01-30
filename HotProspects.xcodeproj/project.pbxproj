@@ -61,9 +61,9 @@
 				0AA50FA127A431380073CC3E /* ContentView.swift */,
 				0AA50FAD27A432C00073CC3E /* ProspectsView.swift */,
 				0AA50FAF27A432D00073CC3E /* MeView.swift */,
+				0AA50FB127A434C80073CC3E /* Prospect.swift */,
 				0AA50FA327A431390073CC3E /* Assets.xcassets */,
 				0AA50FA527A431390073CC3E /* Preview Content */,
-				0AA50FB127A434C80073CC3E /* Prospect.swift */,
 			);
 			path = HotProspects;
 			sourceTree = "<group>";
